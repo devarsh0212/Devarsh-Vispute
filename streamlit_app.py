@@ -13,7 +13,7 @@ import os
 # PAGE CONFIGURATION
 # -----------------------------------------------------------------------------
 st.set_page_config(
-    page_title="Dr. Alex Rivers | Mechanical Engineering PhD Portfolio",
+    page_title="Dr. Devarsh M. Vispute | Mechanical Engineering PhD",
     page_icon="⚙️",
     layout="wide",
     initial_sidebar_state="expanded",
@@ -138,26 +138,23 @@ st.markdown(
 # PORTFOLIO DATA STRUCTURE (CUSTOMIZE HERE)
 # -----------------------------------------------------------------------------
 BIO_DATA = {
-    "name": "Dr. Alex Rivers",
+    "name": "Dr. Devarsh M. Vispute",
     "title": "Ph.D. in Mechanical Engineering",
-    "affiliation": "Advanced Thermal & Robotics Laboratory | Institute of Technology",
-    "email": "alex.rivers@university.edu",
-    "location": "Boston, MA, USA",
-    "linkedin": "https://linkedin.com/in/alexrivers-phd",
-    "scholar": "https://scholar.google.com",
-    "github": "https://github.com/alexrivers",
+    "affiliation": "Postdoctoral Research Associate | Carnegie Mellon University",
+    "email": "devarsh.vispute@gmail.com",
+    "location": "Pittsburgh, PA, USA",
+    "linkedin": "https://www.linkedin.com/in/devarshvispute/",
+    "scholar": "https://scholar.google.com/citations?hl=en&user=59rywrIAAAAJ",
+    "github": "https://github.com/devarsh0212",
     "summary": (
-        "Mechanical engineering doctoral researcher with 8+ years of expertise in "
-        "interfacial heat transfer, micro-channel cooling for power electronics, and "
-        "autonomous multi-rotor systems for mission-critical environmental inspection. "
-        "Experienced in coupling high-fidelity CFD/FEA multiphysics with physical validation, "
-        "mechatronics prototyping, and robotics software frameworks (ROS/ROS2, C++, Python)."
+        "Ph.D. in Mechanical Engineering at Carnegie Mellon with expertise in thermal and thermostructural analysis, CFD simulation, and mechanical design. Experienced in academic research with multiphysics simulations and experimental validation. Passionate about implementing computational tools for developing cutting-edge technologies to solve real-world problems. "
+      
     ),
     "education": [
         {
-            "degree": "Ph.D. in Mechanical Engineering",
-            "institution": "Institute of Technology",
-            "year": "2021 – 2026 (Expected)",
+            "degree": "Doctor of Philosophy in Mechanical Engineering",
+            "institution": "Carnegie Mellon University",
+            "year": "2020 – 2025 ",
             "dissertation": "Thermal-Fluid Dynamics and Multiphysics Optimization in Additively Manufactured High-Flux Heat Exchangers",
             "advisor": "Prof. Arthur Pendelton, ASME Fellow",
         },
